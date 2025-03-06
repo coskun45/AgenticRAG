@@ -1,4 +1,4 @@
-from get_retriever import retriever
+from ingestion import retriever
 from graph.state import GraphState
 from typing import Any, Dict
 

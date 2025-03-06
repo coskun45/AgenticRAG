@@ -16,9 +16,27 @@ llm = ChatOpenAI(temperature=0)
 structured_llm_router = llm.with_structured_output(RouteQuery) # llm artik ya vectorstore ya da websearch'e yonlendirilebilir
 
 system_prompt = """
-Your are an expert at routing a user query to a vector store or web search.
-The vectorstore contains documents that provide answers to people's questions about the Quran, Islam, being a Muslim, and contemporary issues in accordance with Islamic principles.
-Use the vectorstore if the user query is about Islamic principles or the Quran.
+You are an expert at routing user queries to a vector store or web search.
+
+The vector store contains documents related to Hannoversche Versicherung – Consumer Information, specifically about car insurance.
+This database provides details on coverage, payments, cancellations, and policyholder responsibilities.
+It includes sections on:
+General Information
+Insurance Conditions
+Notice on Obligation to Provide Information
+Data Protection Notices
+Product Information Sheet – Motor Vehicle Insurance
+General Contract Information – Motor Vehicle Insurance
+Additional Notes on Premium Calculation
+General Terms and Conditions for Motor Vehicle Insurance (AKB 2015)
+Consumer Information for Legal Protection Insurance
+Product Information Sheet – Legal Protection Insurance
+General Contract Information – Legal Protection Insurance
+Special Terms and Conditions for Legal Protection Insurance (NRV 2011 PLUS)
+Data Protection Notices (Legal Protection Insurance Only)
+Query Routing Rules:
+If the user query is about motor vehicle insurance from Hannoversche Versicherung, use the vector store.
+For all other queries, perform a web search.
 """
 route_prompt = ChatPromptTemplate(
     [
@@ -28,3 +46,10 @@ route_prompt = ChatPromptTemplate(
 )
 
 question_router = route_prompt | structured_llm_router
+
+
+# if __name__ == "__main__":
+#     response = question_router.invoke("What is the coverage of Hannoversche Versicherung car insurance?")
+#     print(response)
+#     response = question_router.invoke("What is the capital of Germany?")
+#     print(response)

@@ -13,7 +13,7 @@ class GradeDocuments(BaseModel):
     Binary score for hallucination present in generated answer
     """
     
-    binary_score: bool =Field(description="Anser is grounded in the facts, 'yer' or 'no'")
+    binary_score: bool =Field(description="Answer is grounded in the facts, 'yes' or 'no'")
     
 structured_llm_grader = llm.with_structured_output(GradeDocuments)
 

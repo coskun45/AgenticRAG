@@ -8,6 +8,8 @@ def grade_documents(state: GraphState) -> Dict[str, Any]:
     
     Args:
         state(dict): The current state of the graph
+    Returns:
+        state(dict): Filtered out irrelevan documents and updated web_search state
     """
     print("----CHECK DOCUMENTS RELEVANT TO QUESTION----")
     question = state["question"]

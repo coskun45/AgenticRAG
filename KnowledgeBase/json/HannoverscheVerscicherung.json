@@ -1,0 +1,245 @@
+[
+  {
+    "ID":1,
+    "frage":"Was ist der Unterschied zwischen einer Vollkasko- und einer Teilkaskoversicherung?",
+    "ref_antwort":"Die Teilkaskoversicherung bietet Ihnen eine solide Basisabsicherung. Sie zahlt auch bei Beschädigung, Zerstörung oder Verlust Ihres eigenen Autos – etwa durch Brand, Diebstahl, Elementarschäden oder Glasbruch.Den umfangreichsten Schutz bietet die Vollkasko: Neben den Leistungen der Teilkasko trägt sie auch alle Schäden am eigenen Auto nach einem Unfall, durch angekoppelten Anhänger sowie nach mut- und böswilliger Beschädigung durch fremde Personen (Vandalismus)."
+  },
+  {
+    "ID":2,
+    "frage":"Welche anderen Zusatzleistungen lohnen sich für mich?",
+    "ref_antwort":"Ob Panne, Unfall, Diebstahl oder plötzliche Erkrankung: der Schutzbrief (Plus) bietet Hilfe und finanzielle Sicherheit, wenn mal etwas schiefgeht – und das in ganz Europa, rund um die Uhr.Bei einem selbst verschuldeten Unfall sind Personenschäden des Fahrers nicht versichert. Der Fahrerschutz schließt diese Lücke. Jeder berechtigte Fahrer ist bis maximal 15 Mio. € abgesichert. Mit dem Rabattschutz verhindern Sie, dass Ihr Vertrag nach einem Schaden zurückgestuft wird. Pro Versicherungsjahr wird ein belastender Schaden dann so behandelt, als sei er gar nicht passiert.Wer sich schon beim Versicherungsabschluss für eine Werkstattbindung entscheidet, profitiert doppelt: Sie erhalten alle damit verbundenen Serviceleistungen und freuen sich außerdem über 15 Prozent Rabatt auf Ihren Kaskobeitrag.Kein Risiko, falls es zum juristischen Nachspiel kommt: Die Verkehrs-Rechtsschutzversicherung übernimmt die Kosten, die dabei entstehen.Der Auslandschutz sichert Ihnen eine Entschädigung nach deutschem Recht, wenn auf Reisen etwas passiert. Die Versicherungs­summe­n in anderen Ländern reichen oft nicht aus, um den Schaden nach einem unverschuldeten Unfall zu ersetzen.Wird ein geleastes oder kreditfinanziertes Auto gestohlen oder erleidet Totalschaden liegt die Restforderung häufig über dem Wiederbeschaffungswert, der von der Kaskoversicherung ersetzt wird. Die GAP-Deckung übernimmt dieses Risiko aus dem Finanzierungs-/Leasingvertrag."
+  },
+  {
+    "ID":3,
+    "frage":"Bin ich mit meinem Auto auch im Ausland versichert?",
+    "ref_antwort":"Die Kfz-Versicherung der VHV garantiert den Versicherungsschutz in Europa sowie in den außereuropäischen Gebieten, die zum Geltungsbereich der EU gehören.Die Internationale (Grüne) Versicherungskarte fungiert als Nachweis Ihrer Kfz-Haftpflichtversicherung. Da in einigen Ländern sogar Vorlagezwang besteht, sollten Sie die Grüne Karte bei Fahrten im Ausland unbedingt mit sich führen.Hier fordern Sie die grüne Karte ganz einfach an."
+  },
+  {
+    "ID":4,
+    "frage":"Was bietet mir die Zusatzleistung Schutzbrief?",
+    "ref_antwort":"Egal, ob Autopanne oder Unfall, Diebstahl oder Totalschaden, Erkrankung oder Verletzung mitfahrender Personen – Ihnen wird schnelle Hilfe und finanzielle Unterstützung in ganz Europa und rund um die Uhr geboten - unter diesen Notrufnummern:Im Inland: 0800 570 1111.Aus dem Ausland: +49 221 827 7304"
+  },
+  {
+    "ID":5,
+    "frage":"Welche Versicherungen für Zweitwagen oder andere Schadensfreiheitsklassen gibt es?",
+    "ref_antwort":"Egal, ob Zweitwagen-, Ehegatten- oder Fahranfänger-Regelung, für Sie gibt es mehr als eine Möglichkeit, Ihre Autos einstufen zu lassen. Hier erhalten Sie einen ausführlichen Überblick, auch über die Beitragssätze der verschiedenen Regelungen."
+  },
+  {
+    "ID":6,
+    "frage":"Bieten Sie eine telefonische Beratung zur Kfz-Versicherung an?",
+    "ref_antwort":"Nein, es wird keine telefonische Beratung für die Kfz-Versicherung angeboten. Die Kommunikation und Angebotserstellung erfolgt ausschließlich online über das Internet. Der geringe Verwaltungsaufwand spart Kosten, die die VHV in Form von günstigen Beiträgen an Sie weitergibt. Ihr Vorteil: Sie bleiben flexibel und können jederzeit online den Beitrag berechnen, Ihre eVB-Nummer anfordern und Vertragsänderungen selber durchführen. Im Schadenfall steht Ihnen die VHV selbstverständlich auch telefonisch rund um die Uhr mit einer Soforthilfe zur Seite."
+  },
+  {
+    "ID":7,
+    "frage":"Für welche Fahrzeuge bieten Sie zurzeit Versicherungsschutz?",
+    "ref_antwort":"Zurzeit wird der Versicherungsschutz ausschließlich für privat genutzte PKW angeboten."
+  },
+  {
+    "ID":8,
+    "frage":"Warum kann ich mein Fahrzeug nicht versichern, wenn ich es zur entgeltlichen Warenbeförderung nutze?",
+    "ref_antwort":"Die VHV kalkuliert mit besonders günstigen Beiträgen, von denen alle Versicherungs­nehmer profitieren. Da die entgeltliche Warenbeförderung ein höheres und zudem gewerbliches Risiko darstellt, können diese Fahrzeuge leider nicht versichert werden."
+  },
+  {
+    "ID":9,
+    "frage": "Kann ich einen abweichenden Halter versichern?",
+    "ref_antwort": "Ja, das ist möglich. Für die Antragstellung geben Sie einfach diejenige Person als Halter an, auf deren Namen das Fahrzeug bei der Zulassungsstelle angemeldet wird oder wurde. Der Halter ist meist der Eigentümer des Autos und kann eine andere Person als der Versicherungsnehmer sein. Welche abweichenden Halter auswählbar sind, erfahren Sie im Rahmen der Antragstellung bei dem Tarifrechner. Wichtig: Bei einem abweichenden Halter kann sich eine Beitragsänderung ergeben."
+}
+,
+{
+  "ID":10,
+  "frage": "Was ist eine internationale Versicherungskarte (IVK) / Grüne Karte?",
+  "ref_antwort": "Sie sind bei bei der VHV auch im Ausland versichert. Die Internationale Versicherungskarte für Kraftverkehr (IVK), wegen ihrer Farbe Grüne Versicherungskarte genannt, dient bei einer Fahrt mit dem PKW in das europäische Ausland inklusive der Mittelmeeranrainerstaaten als Nachweis Ihrer Kfz-Haftpflichtversicherung. Die Grüne Karte ist bei der Einreise in die 28 EU-Mitgliedsstaaten sowie bei der Einreise nach Island, Norwegen, Liechtenstein, Andorra, Kroatien und in die Schweiz im Grunde nicht mehr erforderlich. In diesen Ländern ist ein gültiges Kennzeichen der Beleg eines vorhandenen Versicherungsschutzes. In den Balkanstaaten (ohne Kosovo), Russland, Türkei, Ukraine und Weißrussland ist die Grüne Karte bei der Einreise Pflicht. Im Kosovo wird sie nicht anerkannt und ist deshalb nicht erforderlich. Zustellung: Die IVK wird direkt nach Versicherungsbeginn erstellt und Ihnen per Post zugesendet. Die Versanddauer sollten Sie bei der Planung von Auslandsreisen bitte mit einkalkulieren. Ein Versand per E-Mail ist nicht möglich, da es sich bei der IVK um ein Versicherungsdokument handelt, das stets im Original mitgeführt werden muss. Wenn Sie Ihre IVK verloren haben oder die Gültigkeit abgelaufen ist, können Sie in dem Kundenservicebereich eine neue IVK anfordern."
+},
+{
+  "ID":11,
+  "frage": "Benötige ich für den Kauf oder Verkauf eines gebrauchten Fahrzeugs einen Kaufvertrag?",
+  "ref_antwort": "Ganz gleich, ob Sie ein gebrauchtes Fahrzeug verkaufen oder kaufen möchten: Ein schriftlicher Kaufvertrag liegt im Interesse beider Vertragspartner und sollte deshalb unbedingt abgeschlossen werden. Wenn Sie Ihr Fahrzeug verkaufen, empfehlen wir Ihnen, das Fahrzeug selbst abzumelden und ohne Nummernschilder an den neuen Besitzer zu übergeben. Die VHV wird dann von der Zulassungsbehörde über die Abmeldung informiert und kann Ihren Vertrag beenden. Erst ab diesem Zeitpunkt sind keine weiteren Beiträge mehr zu zahlen. Einen Muster-Kaufvertrag können Sie sich hier herunterladen."
+},
+
+  {
+    "ID":12,
+    "frage":"Welche Unterlagen benötige ich für die Zulassung meines Fahrzeugs?",
+    "ref_antwort":"Zulassung eines Neufahrzeugs (fabrikneues Fahrzeug):eVB-Nummer, Personalausweis oder Reisepass mit aktueller Meldebestätigung ,Zulassungsbescheinigung Teil II bzw. COC-Papier (Übereinstimmungsbescheinigung), Einzugsermächtigung für die Kfz-Steuer ggf. schriftliche Vollmacht für Vertreter und dessen Ausweis oder Pass.Zulassung eines Gebrauchtfahrzeugs:eVB-Nummer des Versicherers ,Personalausweis oder Reisepass mit aktueller Meldebestätigung, Zulassungsbescheinigung Teil I, Zulassungsbescheinigung Teil II ,ggf. Kennzeichenschilder, Gültige Prüfbescheinigung, Haupt- & Abgasuntersuchung (wenn das Fahrzeug älter als drei Jahre ist) Einzugsermächtigung für die Kfz-Steuer ggf. schriftliche Vollmacht für Vertreter und dessen Ausweis oder Pass Wenn Sie weitere Fragen rund um die Kfz-Zulassung haben, empfehlen wir Ihnen, sich direkt mit der Zulassungsbehörde in Verbindung zu setzen."
+  },
+  {
+    "ID":13,
+    "frage":"Wie schließe ich eine neue Kfz-Versicherung ab und wie bekomme ich eine eVB-Nummer?",
+    "ref_antwort":"Mithilfe des Tarifrechners können Sie in nur wenigen Minuten den individuellen Beitrag für Ihre Kfz-Versicherung berechnen und den Antrag sofort abschicken. Direkt danach erhalten Sie auf der Bestätigungsseite und per E-Mail Ihre eVB-Nummer (elektronische Versicherungsbestätigungsnummer) und können damit Ihr Auto zulassen."
+  },
+  {
+    "ID":14,
+    "frage":"Wieso kann ich keine eVB-Nummer ohne vorherige Eingabe der Antragsdaten erhalten?",
+    "ref_antwort":"Die Ausstellung einer Nummer für die elektronische Versicherungsbestätigung (eVB-Nummer) ist ohne vorherigen Antragseingang deutlich aufwändiger. Die VHV hält ihre Verwaltungskosten lieber gering – und kalkuliert dafür die Preise ihrer Kfz-Versicherung ganz besonders niedrig."
+  },
+  {
+    "ID":15,
+    "frage":"Kann ich meinen Vertrag in der Vergangenheit, also per Rückdatierung beginnen lassen?",
+    "ref_antwort":" Nein, das geht leider nicht. Eine Rückdatierung stellt neben einem höheren Risiko auch einen zusätzlichen Verwaltungs- und Kostenaufwand dar. Der frühestmögliche Versicherungsbeginn ist das Datum der Antragstellung."
+  },
+  {
+    "ID":16,
+    "frage":"Zu welchem Zeitpunkt und in welcher Form erhalte ich meine Police (Kfz-Versicherungsschein)?",
+    "ref_antwort":"Ihre Police erhalten Sie in der Regel kurz vor dem gewünschten Versicherungsbeginn innerhalb von 3 bis 5 Werktagen mit der Post.Bei einem Versichererwechsel zum 1. Januar. erhalten Sie den Kfz-Versicherungsschein aufgrund des Versicherungsbeginns bis spätestens Mitte Januar."
+    
+  },
+  {
+    "ID":17,
+    "frage":"Wann beginnt der Versicherungsschutz meiner Kfz-Versicherung?",
+    "ref_antwort":"Sobald Sie Ihr Fahrzeug bei der Zulassungsstelle mit Hilfe der eVB-Nummer anmelden, genießen Sie in der Kfz-Haftpflichtversicherung vorläufigen Versicherungsschutz. Für die Voll- und/oder Teilkasko beginnt der Versicherungsschutz mit dem im Antrag angegebenen Vertragsbeginn. Sobald Sie den Erstbeitrag gezahlt haben, wird aus dem vorläufigen der endgültige Versicherungsschutz." 
+  },
+  {
+    "ID":18,
+    "frage":"Wann wird der Kfz-Versicherungsbeitrag von meinem Konto abgebucht?",
+    "ref_antwort":"Ihren Beitrag bucht die VHV nach Ablauf der zweiwöchigen Widerrufsfrist entweder zu Beginn oder zur Mitte des Monats von Ihrem Konto ab. Der Versicherungsschutz Ihres Vertrages besteht im vereinbarten Umfang ab dem im Versicherungsschein genannten Versicherungsbeginn."
+  },
+  {
+    "ID":19,
+    "frage":"Was passiert, wenn ich meinen Erstbeitrag nicht rechtzeitig bezahle?",
+    "ref_antwort":"Der im Versicherungsschein genannte erste Beitrag wird zwei Wochen nach Zugang des Versicherungsscheins fällig. Sie haben diesen Beitrag dann unverzüglich zu zahlen.Zahlen Sie den ersten oder einmaligen Beitrag nicht rechtzeitig, haben Sie von Beginn an keinen Versicherungsschutz – es sei denn, Sie haben die Nichtzahlung oder verspätete Zahlung nicht zu vertreten. Sonst beginnt der Versicherungsschutz erst ab der Zahlung des Erstbeitrages. Solange keine Zahlung eingegangen ist, kann die VHV vom Versicherungsvertrag noch zurücktreten. "
+  },
+  {
+    "ID":20,
+    "frage":"Wie kann ich mit meiner Kfz-Versicherung zu Ihnen wechseln?",
+    "ref_antwort":"Ganz einfach: Wenn Sie mit Ihrer bestehenden Kfz-Versicherung zur VHV wechseln möchten, wählen Sie online im Tarifrechner einfach die Option „Mit meinem Auto zur VHV wechseln aus. Anschließend können Sie Ihren individuellen Beitrag ausrechnen und in nur wenigen Minuten Ihren Kfz-Versicherungsvertrag beantragen. Die VHV sendet die neue eVB-Nummer dann direkt an die Zulassungsstelle. Wichtig: Bitte denken Sie daran, Ihren Vertrag bei Ihrem bestehenden Versicherer fristgerecht zu kündigen, da die VHV Ihr Fahrzeug ansonsten nicht versichern kann."
+  },
+  {
+    "ID":21,
+    "frage":"Mein Beitrag wurde noch nicht abgebucht - besteht für mich jetzt überhaupt Versicherungsschutz?",
+    "ref_antwort":"Ihr Beitrag wird mit dem nächsten Lastschrifteinzug entweder zum Beginn oder zur Mitte des Monats abgebucht. Bis dahin besteht für Sie selbstverständlich bereits Versicherungsschutz."
+  },
+  {
+    "ID":22,
+    "frage":"Können Sie meinen bestehenden Vertrag beim Vorversicherer kündigen?",
+    "ref_antwort":"Nein, das darf die VHV aus wettbewerbsrechtlichen Gründen leider nicht. Sie müssen Ihren alten Vertrag selbst kündigen. Dabei genügt ein formloses Schreiben."
+  },
+  {
+    "ID":23,
+    "frage":"Wann kann ich meinen Vertrag beim Vorversicherer kündigen?",
+    "ref_antwort":"Kündigung zum Ablauf der Versicherung:In der Regel können Sie Ihre Kfz-Versicherung mit einer Frist vom einem Monat zum 31.12. kündigen. Das heißt, die Kündigung muss spätestens bis zum 30.11. bei Ihrem Vorversicherer eingegangen sein.Kündigung bei einer Beitragserhöhung:Wenn Sie von Ihrem Versicherer die Mitteilung über die Erhöhung des Kfz-Versicherungsbeitrages bekommen haben, können Sie innerhalb eines Monats nach Erhalt der Beitragsrechnung kündigen und zur Hannoverschen wechseln.Kündigung im Schadenfall:Im Schadenfall ist die Kündigung der Versicherung innerhalb eines Monats nach Erhalt der Schadenabschlussmeldung (bzw. eines Ablehnungsschreibens) möglich.Kündigung bei einem Fahrzeugwechsel:Eine Kfz-Versicherung gilt immer nur für ein bestimmtes Fahrzeug. Bei jedem Fahrzeugwechsel können Sie die Versicherung deshalb neu wählen."
+  },
+  {
+    "ID":24,
+    "frage":"Muss ich bei einem Fahrzeugwechsel einen neuen Antrag stellen?",
+    "ref_antwort":"Jeder Fahrzeugwechsel stellt rechtlich einen neuen Vertrag mit eventuell veränderten Merkmalen dar. Deshalb ist nach jedem Fahrzeugwechsel ein neuer Antrag notwendig. Wählen Sie einfach die Option Ein neu zugelassenes Auto versichern in dem Tarifrechner: Nach erfolgter Antragstellung erhalten Sie die eVB-Nummer für die Zulassung in nur wenigen Minuten per E-Mail. Eventuelle Guthaben aus dem bestehenden Vertrag rechnet die VHV automatisch an, wenn Ihnen das Guthaben nicht schon erstattet wurde."
+  },
+  {
+    "ID":25,
+    "frage":"Ich habe meinen Antrag widerrufen – bekomme ich eine Bestätigung?",
+    "ref_antwort":"Ja, Sie erhalten eine Widerrufsbestätigung. Sollten Sie bereits eine Police erhalten haben, bekommen Sie auch eine Löschungsbestätigung."
+  },
+  {
+    "ID":26,
+    "frage":"Wie kann ich Änderungen an meinem Vertrag vornehmen?",
+    "ref_antwort":"Ihre Adress- und Kontaktdaten sowie Ihre Bankverbindung können Sie ganz einfach im Bereich „Kundenservice“ ändern. Möchten Sie andere Änderungen an Ihrem Vertrag oder Versicherungsschutz vornehmen, schicken Sie der VHV bitte eine E-Mail und den Änderungswunsch an service@vhv.de.Wichtig: Bitte beachten Sie, dass eine Bearbeitung per E-Mail nur unter Angabe Ihrer Versicherungsscheinnummer möglich ist."
+  },
+  {
+    "ID":27,
+    "frage":"Ich bin umgezogen – wie kann ich eine neue Versicherungsbestätigung (eVB-Nummer) anfordern?",
+    "ref_antwort":"Wenn Sie aufgrund eines Umzugs / einer Adressänderung eine neue Versicherungsbestätigung (evB-Nummer) benötigen, fordern Sie diese bitte unter Angabe Ihrer Versicherungsscheinnummer per E-Mail an service@vhv.de an."
+  },
+  {
+    "ID":28,
+    "frage":"Ich habe mein Fahrzeug verkauft – wie beende ich den Vertrag?",
+    "ref_antwort":"Fällt das versicherte Risiko weg (wegen Autoverschrottung oder -verkauf), wird der Vertrag zum Abmelde- oder Verkaufsdatum aufgehoben und abgerechnet.Wenn Sie Ihr Fahrzeug verkauft haben, vergessen Sie bitte nicht, die VHV darüber in Kenntnis zu setzen. Dies können Sie per E-Mail an service@vhv.de tun.Wenn Sie Ihr neues Fahrzeug gerne wieder bei der VHV versichern möchten, können Sie über den Online-Tarifrechner die neue eVB-Nummer anfordern."
+  },
+  {
+    "ID":29,
+    "frage":"Wie kann ich meinen Vertrag kündigen?",
+    "ref_antwort":"Sie können Ihr Kündigungsschreiben unter Angabe Ihrer Versicherungsscheinnummer fristgerecht (spätestens bis 30.11.) an die E-Mailadresse service@vhv.de senden."
+  },
+  {
+    "ID":30,
+    "frage":"Was macht die Kfz-Versicherung der VHV besonders attraktiv?",
+    "ref_antwort":"Neben günstigen Beiträgen bietet die VHV eine schnelle und zuverlässige Schadenregulierung und viele weitere Vorteile: Verzicht auf die Selbstbeteiligung bei Reparatur von Glasschäden Schäden durch Zusammenstoß mit Tieren aller Art 24-Stunden-Soforthilfe-Nummer – 365 Tage im Jahr 15% Nachlass auf den Kaskobeitrag durch Werkstattbindung Mietwagen-Unfälle sind im Ausland abgesichert über die „Mallorca-Police Verzicht auf Einwand der groben FahrlässigkeitVerzicht auf Abzug „neu für alt“ (bei Lackierung)"
+  },
+  {
+    "ID":31,
+    "frage":"Was leistet die Kfz-Haftpflichtversicherung?",
+    "ref_antwort":"Die Haftpflichtversicherung ist für Fahrzeughalter verpflichtend. Sie kommt für Schäden auf, die anderen durch den Betrieb Ihres Fahrzeugs entstehen. Es werden z.B. folgende Leistungen erstattet:Fahrzeugreparatur des Unfallgegners, Kosten für einen Mietwagen, Schmerzensgeld, Zahlung einer Rente, Diese Leistungen werden auch den Mitfahrern des Unfallgegners gewährt. Zudem umfasst die Haftpflicht auch die Abwehr von unbegründeten oder überzogenen Schadenersatzansprüchen.Gesetzliche Mindest­versicherungs­summe­n je Schadenfall:Personenschäden bis zu 7,5 Mio. Euro,Sachschäden bis zu 1,12 Mio. Euro, Vermögensschäden bis zu 50.000 Euro,Die Hannoversche leistet je nach Vertragsabschluss je Schadensfall entweder:Sach- und Vermögensschäden pauschal 100 Mio. Euro / Personenschäden bis zu 15 Mio. Euro je geschädigter PersonSach- und Vermögensschäden pauschal 50 Mio. Euro / Personenschäden bis zu 12 Mio. Euro je geschädigter Person"
+  },
+  {
+    "ID":32,
+    "frage":"Was bedeutet Werkstattbindung?",
+    "ref_antwort":"Mit der Werkstattbindung sichern Sie sich schon bei Vertragsabschluss den Schadenservice Plus in einer zertifizierten Partnerwerkstatt – und profitieren über die gesamte Laufzeit Ihres Vertrags von einer Reduktion des Kaskobeitrags. Im Schadenfall ist dann eine durch die VHV gesteuerte Reparatur in einer Partnerwerkstatt verbindlich."
+  },
+  {
+    "ID":33,
+    "frage":"Was bedeutet die Mallorca-Police?",
+    "ref_antwort":"Als Mallorca-Police bezeichnet man die Mitversicherung der Kfz- Haftpflichtversicherung für Mietwagen im europäischen Ausland. Bei der Hannoverschen ist diese beitragsfrei in der Kfz-Haftpflicht eingeschlossen. Das ist wichtig, weil Mietwagen im Ausland oft mit niedrigeren Versicherungs­summe­n haftpflichtversichert sind als in Deutschland.Somit kann es passieren, dass die Versicherungs­summe­n für einen Schadenfall nicht ausreichen. Übersteigt ein Schaden diese Deckungssummen, müssen Sie den darüber hinausgehenden Teil aus eigener Tasche bezahlen. In diesem Fall ersetzt die VHV den ausstehenden Betrag bis zu der in der Kfz-Haftpflicht vereinbarten Deckungssumme – also mit bis zu 100 Mio. Euro. "
+  },
+  {
+    "ID":34,
+    "frage":"Was sind Schadenfreiheitsklassen?",
+    "ref_antwort":"Die Schadenfreiheitsklasse (SF-Klasse) gibt den Zeitraum an, in dem Sie mit Ihrem Auto unfall- und schadenfrei gefahren sind. Das heißt: Nach vier Jahren ohne Schaden sind Sie in der SF-Klasse 4.Für die Versicherungsunternehmen entspricht dies also dem Zeitraum, in dem Sie Ihre Kfz-Versicherung nicht durch Schadenzahlungen in Anspruch genommen haben. Je länger die Zeitspanne, umso besser – denn wer schadenfrei fährt, wird belohnt: Auf die Autoversicherung werden höhere Rabatte gewährt und die Beiträge sinken. Die SF-Klasse hat neben Regional- und Typklasse einen großen Einfluss auf die Höhe Ihrer Versicherungsprämie. Allerdings spielt dies nur bei der Kfz-Haftpflichtversicherung und der Vollkasko eine Rolle. Bei der Teilkasko hat das Fahrverhalten keine Auswirkungen. Daher werden bei der Teilkaskoversicherung keine personengebundenen Prozente gewährt. "
+  },
+  {
+    "ID":35,
+    "frage":"Wie ermittle ich die richtige Schadenfreiheitsklasse für die Kfz-Angebotsberechnung?",
+    "ref_antwort":"Ihre Schadenfreiheitsklasse können Sie der aktuellen Beitragsrechnung Ihres derzeitigen Versicherers entnehmen. Wenn Sie ein Angebot für das nächste Jahr berechnen möchten, addieren Sie für die Beitragsberechnung eine Schadenfreiheitsklasse hinzu, sofern Ihr Vertrag noch nicht in die höchste Schadenfreiheitsklasse eingestuft ist. Wichtig: Sondereinstufungen von Ihrem derzeitigen Versicherer können leider nicht übernommen werden."
+  },
+  {
+    "ID":36,
+    "frage":"Was bedeutet die Führerscheinregelung?",
+    "ref_antwort":"Sollten Sie noch keinen Schadenfreiheitsrabatt besitzen, beginnt Ihr Kfz-Versicherungsvertrag normalerweise mit der Einstufung in die SF-Klasse 0. Dank der Führerscheinregelung haben Sie die Möglichkeit, sich deutlich günstiger zu versichern – in der SF-Klasse 1/2. Dafür müssen Sie nachweisen, dass Sie aufgrund einer gültigen Fahrerlaubnis, die von einem Mitgliedstaat des europäischen Wirtschaftsraums (EWR) erteilt wurde oder dieser nach I.2.5 der Allgemeinen Bedingungen gleichgestellt ist, seit mindestens drei Jahren zum Führen von Pkw, Krafträdern oder von Klein- bzw. Leichtkrafträdern, die ein amtliches Kennzeichen führen müssen, berechtigt sind. Autofahrer, die bislang noch kein eigenes Kfz versichert haben, können ihr Auto somit deutlich günstiger versichern."
+  },
+  {
+    "ID":37,
+    "frage":"Wann erfolgt eine Veränderung der Schadenfreiheitsklasse (SF-Klasse)?",
+    "ref_antwort":"Wer Jahr für Jahr unfallfrei fährt, profitiert doppelt. Denn die SF-Klasse wird im darauffolgenden Jahr um eine Stufe erhöht. Zugleich sinkt die Prämie, die für die Haftpflicht-oder Vollkaskoversicherung zu zahlen ist. Damit Sie hochgestuft werden können, muss der Versicherungsschutz im Vorjahr sechs Monate lang ununterbrochen bestanden haben. Wer einen oder mehrere Schadensfälle von der Versicherung abwickeln lässt, erhält eine Rückstufung seines Schadenfreiheitsrabatts, sofern kein Rabattschutz vereinbart wurde.Wichtig: Für den Schadenfreiheitsrabatt ist nicht die Höhe der einzelnen Schäden entscheidend, sondern die Anzahl der Schäden. Im Vertrag wird in einer sogenannten Rückstufungstabelle geregelt, wie viel Prozent für die Autoversicherung gestrichen wird. "
+  },
+  {
+    "ID":38,
+    "frage":"Warum ist mein Beitragssatz gleich geblieben? ",
+    "ref_antwort":"Meine Schadenfreiheitsklasse (SF-Klasse) hat sich doch verbessert!Die Schadenfreiheitsklasse ist nur eines der vielen Merkmale, die in die Beitragsberechnung einfließen. Daher kann es auch passieren, dass der Rabatt durch die Hochstufung der SF-Klasse durch eine Änderung in der Typklasse oder ähnliche aufgehoben wird.Zudem sind jeder Schadenfreiheitsklasse bestimmte Prozentwerte zugeordnet (Beitragssätze). Während die SF-Klassen gesetzlich vorgeschrieben sind, können die Versicherer die zugeordneten Prozente frei bestimmen. Daher unterscheiden sich die Prozentsätze bei den Versicherern trotz gleicher Schadenfreiheitsklasse. Eine vollständige Auflistung aller Schadenfreiheitsklassen und der zugeordneten Beitragssätze finden Sie in Ihren Versicherungsbedingungen. "
+  },
+  {
+    "ID":39,
+    "frage":"Wie erfolgt die Einstufung meines Fahrzeugs nach einer Unterbrechung?",
+    "ref_antwort":"Ihre Kfz-Versicherung wird unterbrochen, wenn Sie Ihr Fahrzeug vorübergehend stilllegen oder ohne unmittelbaren Ersatz veräußern oder verschrotten. Für die spätere Einstufung ist die Dauer der Unterbrechung entscheidend. Es gelten die folgenden Regeln: Beträgt die Unterbrechung höchstens sechs Monate, übernimmt die VHV den Schadenverlauf, als wäre der Versicherungsschutz nicht unterbrochen worden.Beträgt die Unterbrechung mehr als sechs Monate, übernimmt die VHV den Schadenverlauf, wie er vor der Unterbrechung bestand. Voraussetzung ist, dass Sie der VHV durch Einreichung einer Kopie Ihres Führerscheins nachweisen, dass Sie während des gesamten Unterbrechungszeitraums eine gültige Fahrerlaubnis besessen haben. Beträgt die Unterbrechung mehr als sieben Jahre übernimmt die VHV den schadenfreien Verlauf, wenn Sie Ihre Vor­ver­sicherungs­zeit durch eine Originalbescheinigung Ihres bisherigen Versicherungsunternehmens nachweisen. Liegt kein Nachweis vor, erfolgt die Einstufung wie bei einem erstmalig abgeschlossenen Vertrag."
+  },
+  {
+    "ID":40,
+    "frage":"Wie melde ich einen Schaden?",
+    "ref_antwort":"Schäden können Sie telefonisch unter der Rufnummer 0511 65 50 50 20 (24-Stunden) oder online über das Schadensformular melden."
+  },
+  {
+    "ID":41,
+    "frage":"Was ist zu beachten, wenn sich der Schaden im Ausland ereignet?",
+    "ref_antwort":"Bitte melden Sie der VHV auch einen Schaden im Ausland möglichst umgehend telefonisch unter der Rufnummer +49 511 65 50 50 20 .Sie erhalten dann Informationen zum weiteren Ablauf. Wenn Sie der Geschädigte sind, informieren Sie die eigene Versicherung und auch die des Unfallverursachers. "
+  },
+  {
+    "ID":42,
+    "frage":"Ich bin von einem Ihrer Versicherungs­nehmer geschädigt worden - was tun?",
+    "ref_antwort":"Auch als Geschädigter bei einem Unfall mit einem Versicherungs­nehmer  der VHV profitieren Sie von dessen Schadenservice und Hilfe. Bitte setzen Sie sich sofort mit der VHV in Verbindung – am besten mit dem Handy direkt vom Unfallort unter der Rufnummer 0511 65 50 50 20.Im Fall der Fälle steht Ihnen das Schadenteam mit Rat und Tat zur Seite und sorgt z. B. für die Besichtigung Ihres Fahrzeugs, die Bereitstellung eines Mietwagens oder die Vermittlung in eine zertifizierte Werkstatt. "
+  },
+  {
+    "ID":43,
+    "frage":"Was muss bei einem Glasschaden beachtet werden?",
+    "ref_antwort":"Es wird auf den Abzug der Selbstbeteiligung verzichtet, wenn die beschädigte Verglasung nicht ersetzt, sondern nach Abstimmung mit der VHV durch eine von ihr empfohlene Werkstatt repariert wird."
+  },
+  {
+    "ID":44,
+    "frage":"Wo befinden sich die Partnerwerkstätten?",
+    "ref_antwort":"Die VHV hat ein bundesweites Netz zertifizierter Partnerwerkstätten. Im Schadenfall werden Sie sofort an die kompetenteste Partnerwerkstatt in Ihrer Nähe vermittelt. Alle weiteren Schritte werden dann hier für Sie organisiert: Abholung Ihres Fahrzeugs am Unfallort, kostenloser Leihwagen, fachgerechte Reparatur, Fahrzeugreinigung und Bringservice direkt bis vor die Haustür. Die Abrechnung wird direkt mit der Werkstatt abgewickelt. Sie brauchen sich um nichts mehr zu kümmern!"
+  },
+  {
+    "ID":45,
+    "frage":"Wie kann man eine Rückstufung nach einem Unfall vermeiden?",
+    "ref_antwort":"Ein Schaden, für den die VHV eine Entschädigungsleistung bezahlt hat, beeinträchtigt die Schadenfreiheitsklasse Ihres Vertrags. Um den besseren Beitragssatz zu erhalten, kann es deshalb unter Umständen günstiger sein, einen kleineren Schaden selbst zu bezahlen.Eine Faustregel sagt, bei einem Schaden von bis zu 1.000 Euro lohnt es sich, ihn selbst zu tragen. Auch einen Schaden, der bereits übernommen wurde, können Sie bis zu 6 Monate nach Schadenseintritt noch zurückkaufen. Somit werden Sie nicht zurückgestuft."
+  },
+  {
+    "ID":46,
+    "frage":"Entfällt die Neuwagengarantie, wenn mein Fahrzeug nicht in einer Vertragswerkstatt des Automobilherstellers repariert wird?",
+    "ref_antwort":"Für alle Fahrzeuge, die in einer Partnerwerkstätten repariert werden, gewährt die VHV auf die Reparatur 5 Jahre Garantie. Im Fall des Falles tritt sie sogar in die Herstellergarantie ein. Dies gilt sowohl für Neuwagen als auch für junge Gebrauchtwagen."
+  },
+  {
+    "ID":47,
+    "frage":"Ich habe einen Schutzbrief abgeschlossen - wie verhalte ich mich bei einer Panne?",
+    "ref_antwort":"Bei einer Panne mit Ihrem Fahrzeug setzen Sie sich bitte sofort mit der 24-Stunden-Soforthilfe in Verbindung. Die Mitarbeiter helfen Ihnen dann umgehend weiter:Im Inland: 0800 570 11 11 (gebührenfrei) Aus dem Ausland: +49 221 827 73 04"
+  },
+  {
+    "ID":48,
+    "frage":"Was bedeutet Verzicht auf Einwand der groben Fahrlässigkeit im Schadensfall?",
+    "ref_antwort":"Die VHV verzichten generell auf den Einwand der groben Fahrlässigkeit. Versicherungsschutz besteht also auch dann, wenn der Fahrer z. B. durch das Wechseln einer Musik-CD in einen Unfall verwickelt wird.Ausgenommen bleiben aber das Fahren unter Einfluss von Alkohol oder anderer berauschender Mittel und wenn Sie es einem Dieb im Falle der Entwendung Ihres Fahrzeuges oder der mitversicherte Teile besonders leicht machen."
+  }
+]
